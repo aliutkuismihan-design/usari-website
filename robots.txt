@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aliutkuismihan-design.github.io/usari-website/sitemap.xml

@@ -1,0 +1,12 @@
+# Kullanilmayan / yedek varliklar (tarihce yerelde durur, yayina girmez)
+assets/intro-fox.mp4
+assets/intro-poster.jpg
+assets/hero-bg.jpg
+assets/hero-bg-dark.jpg
+assets/og-cover.jpg
+assets/scroll-fox-red-backup.mp4
+
+# Gelistirme artiklari
+KIMI-BRIEF.md
+__pycache__/
+node_modules/
