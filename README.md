@@ -4,7 +4,7 @@ Usari'nin resmi tanitim sitesi. Statik, framework'suz: HTML + tek CSS + vanilla 
 Sirket: **Usari** (uygulama yazilimi, web sitesi, kisisel telefon sekreteri) ·
 Amiral gemisi proje: **Grande AI** (gelistirme asamasinda).
 
-Canli: https://aliutkuismihan-design.github.io/usari-website/
+Canli: https://usari-website-production.up.railway.app/
 
 ## Yerel calistirma
 

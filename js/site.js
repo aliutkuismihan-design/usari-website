@@ -9,7 +9,7 @@
   /* ---------- Constants & config ---------- */
   const LANG_KEY = 'usari_lang';
   const DEFAULT_LANG = 'tr';
-  const BASE_URL = 'https://aliutkuismihan-design.github.io/usari-website/';
+  const BASE_URL = 'https://usari-website-production.up.railway.app/';
 
   const NAV = [
     { href: 'index.html', page: 'home', key: 'home' },

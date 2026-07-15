@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://aliutkuismihan-design.github.io/usari-website/sitemap.xml
+Sitemap: https://usari-website-production.up.railway.app/sitemap.xml
